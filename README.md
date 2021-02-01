@@ -1,7 +1,7 @@
 Coucou bienvenue dans mon petit serveur de gossip !
 
 Langage utilise :
-'Ruby'
+`Ruby`
 avec la framework Sinatra.
 
 Tu peux entrer ton nom, puis ton potin... et les afficher ! A toi de jouer !
